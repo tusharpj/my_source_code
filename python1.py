@@ -1,1 +1,2 @@
-print("helle world")
+print("hello world")
+print("Welcome to RJ College")
